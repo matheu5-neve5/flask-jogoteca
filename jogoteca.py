@@ -18,7 +18,7 @@ class Usuario:
         self.senha = senha
 
 usuario1 = Usuario("Matheus Neves", "Lourick", "8352850aff")
-usuario2 = Usuario("Matheus Menezes", "Tete", "meuamor")
+usuario2 = Usuario("Matheus Menezes", "Teteu", "meuamor")
 usuario3 = Usuario("Douglhas Nassifle", "Doug", "spadina")
 
 # Dicionário de usuários. Aqui diz que o nickname do usuario1 será a chave usada para levar até o próprio usuario1
